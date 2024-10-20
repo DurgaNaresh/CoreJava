@@ -5,10 +5,13 @@
   <groupId>com.durga</groupId>
   <artifactId>CoreJava_Modules</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>CoreJava_Modules</name>
   <url>https://maven.apache.org</url>
+  <modules>
+    <module>CheatSheet</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
