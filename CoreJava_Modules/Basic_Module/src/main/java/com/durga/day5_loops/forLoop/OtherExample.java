@@ -1,0 +1,21 @@
+package com.durga.day5_loops.forLoop;
+
+/**
+ * @author Durganaresh - 10/23/2024
+ * Hard work definitely pays off.
+ * There is no substitute of hardworking.
+ * There is no shortcut to success.
+ */
+public class OtherExample {
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i++) {
+            if(i <= 5){
+                System.out.println(i+" *********** ");
+                continue;
+            }else{
+                System.out.println(i+" ----------- ");
+            }
+
+        }
+    }
+}
