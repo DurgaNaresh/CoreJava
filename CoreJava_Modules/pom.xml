@@ -12,6 +12,7 @@
   <modules>
     <module>Java8_Module</module>
       <module>Basic_Module</module>
+      <module>MultiThreadingAndConcurrency_Module</module>
   </modules>
 
   <properties>
